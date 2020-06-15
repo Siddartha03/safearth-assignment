@@ -1,0 +1,6 @@
+$errorColor: red;
+$errorSize: 10px;
+.error {
+    color: $errorColor;
+    font-size: $errorSize;
+}
