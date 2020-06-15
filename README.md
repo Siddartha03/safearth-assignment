@@ -17,7 +17,7 @@ How to execute project
   -> Finally your execution is done
   
   => Steps
-      -> Registration
+      -> Registration 
       -> Login
       -> Profile
       -> Task details
