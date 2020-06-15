@@ -1,18 +1,16 @@
 # safearth-assignment
 MERN stack Development
-Languages=> Mongodb, Express, React, Nodejs
+Languages used => Mongodb, Express, React, Nodejs
 
 How to execute project
   -> first open command prompt
-  -> go to safearth-assignment path
-  -> next go Backend-Nodejs-mongodb path
+  -> go to Backend-Nodejs-mongodb path
   -> execute "npm install" for downloading node-modules
   -> And then execute Backend by using this command "nodemon"
   -> It will display like this => "Server is running on port: 5000", "DB Connected "
   
   -> Open another new command prompt
-   -> go to safearth-assignment path
-  -> next go react-app path
+  -> go react-app path
   -> execute "npm install" for downloading node-modules
   -> And then execute frontend react-app by using this command "npm start"
   -> After execution automatically browser will open and display "WELCOME SAFEARTH" page
