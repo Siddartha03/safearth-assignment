@@ -2,7 +2,7 @@
 MERN stack Development
 Languages used => Mongodb, Express, React, Nodejs
 
-How to execute project
+Steps to execute project
   -> first open command prompt
   -> go to Backend-Nodejs-mongodb path
   -> execute "npm install" for downloading node-modules
@@ -16,9 +16,9 @@ How to execute project
   -> After execution automatically browser will open and display "WELCOME SAFEARTH" page
   -> Finally your execution is done
   
-  => Steps
+  => React Pages
       -> Registration 
       -> Login
       -> Profile
       -> Task details
-      -> Do task (Display time, email and notepad environment)
+      -> Do task (It displays time, email and notepad environment
