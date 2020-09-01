@@ -1,4 +1,3 @@
-# safearth-assignment
 MERN stack Development
 Languages used => Mongodb, Express, React, Nodejs
 
